@@ -6,5 +6,6 @@ namespace OpgaveTeamSelection
 {
     class ISpeler
     {
+        public string Naam { get; set; }
     }
 }
